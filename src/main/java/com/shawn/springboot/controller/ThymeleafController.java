@@ -13,4 +13,8 @@ public class ThymeleafController {
     public ModelAndView thy(Model model){
         return new ModelAndView("thymeleaf");
     }
+
+    public void S(){
+
+    }
 }
